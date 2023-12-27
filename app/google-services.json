@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "401370642714",
+    "firebase_url": "https://thu-vien-sach-12-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "thu-vien-sach-12",
+    "storage_bucket": "thu-vien-sach-12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401370642714:android:3df3aa5825800816f494a3",
+        "android_client_info": {
+          "package_name": "com.example.quanlythuviensach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApfY2OCTfTH7zmRZdAltQpNtHEEOhK3bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
